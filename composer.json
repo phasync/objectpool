@@ -1,0 +1,19 @@
+{
+    "name": "phasync/objectpool",
+    "description": "A library for implementing efficient object pooling.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phasync\\Util\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Frode Børli",
+            "email": "frode@ennerd.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
